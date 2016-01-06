@@ -7,5 +7,5 @@ Most Facebook users don't know much about access token and can be easily to get 
 If you're currently in trouble about that, Go to [Facebook Apps Settings](https://www.facebook.com/settings?tab=applications) and then try to delete suspicious apps logins, or completely reset platform by turn it off and then turn it on again.<br/>
 > #####Note
 - Items in this filter are added manually, can't predict about how frequently to be update.
-- This filter is mainly to block known access token theft in Thailand.
+- This filter is mainly to block known access token theft sites in Thailand.
 - You can use [*Issues*](https://github.com/kowith337/ThaiAntiTokenSites/issues) to report those sites, I will be check and update lists if needed.
