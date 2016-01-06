@@ -1,8 +1,8 @@
 [uBlock Origin 1.0.0.0]
-! Title: Anti Pump Site (Likes and Followers) [Alpha]
-! Version: 201511092130
+! Title: ThaiAntiTokenSites [GitHub Ported]
+! Version: 201601070004
 ! Author: kowith337
-! Homepage: http://pastebin.com/etRKNtD4
+! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 1 day
 
 ! Simple filter that block automated likes and followers gaining service sites
