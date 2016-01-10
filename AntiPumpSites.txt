@@ -18,6 +18,7 @@
 ||1st-like.net^$important
 ||1000-like.com^$important
 ||24hr-like.com^$important
+||alllikefast.com^$important
 ||bas-like.com^$important
 ||bot-like.net^$important
 ||bot-likes.com^$important
@@ -64,6 +65,7 @@
 ||likewai.com^$important
 ||likeyoungna.com^$important
 ||lnw-like.com^$important
+||lnwlike.net^$important
 ||longindy.com^$important
 ||mm-like.com^$important
 ||mtsf-like.tk^$important
