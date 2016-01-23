@@ -1,7 +1,7 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiAntiTokenSites (Hosts File Edition for uMatrix)
 # Author: kowith337
-# Version: 201601212041
+# Version: 201601231905
 # Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 
 # [Basic Domain Rules]
@@ -59,6 +59,7 @@
 0.0.0.0 lnwlike.net
 0.0.0.0 longindy.com
 0.0.0.0 mm-like.com
+0.0.0.0 myliker.com
 0.0.0.0 mtsf-like.tk
 0.0.0.0 n-like.com
 0.0.0.0 oh-like.in.th
@@ -88,6 +89,7 @@
 0.0.0.0 u2like.com
 0.0.0.0 up-follow.net
 0.0.0.0 vip-like.com
+0.0.0.0 vliker.com
 0.0.0.0 waijaab.com
 0.0.0.0 waijeed.com
 0.0.0.0 waijeed.net
@@ -95,7 +97,6 @@
 0.0.0.0 zeedlike.com
 0.0.0.0 zeedlike.in.th
 0.0.0.0 zjie.net
-
 
 # [IDN Rules]
 ! In case if non-alphabet domain rules doesn't work.
