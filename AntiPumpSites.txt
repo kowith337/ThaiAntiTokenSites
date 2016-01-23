@@ -1,6 +1,6 @@
 [uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub Ported]
-! Version: 201601200003
+! Version: 201601231903
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 1 day
@@ -70,6 +70,7 @@
 ||longindy.com^$important
 ||mm-like.com^$important
 ||mtsf-like.tk^$important
+||myliker.com^$important
 ||n-like.com^$important
 ||oh-like.in.th^$important
 ||oh-like.net^$important
@@ -98,6 +99,7 @@
 ||u2like.com^$important
 ||up-follow.net^$important
 ||vip-like.com^$important
+||vliker.com^$important
 ||waijaab.com^$important
 ||waijeed.com^$important
 ||waijeed.net^$important
