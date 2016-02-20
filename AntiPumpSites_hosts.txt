@@ -1,12 +1,12 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiAntiTokenSites (Hosts File Edition for uMatrix)
 # Author: kowith337
-# Version: 201601272335
+# Version: 201602201316
 # Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 
 # [Basic Domain Rules]
-0.0.0.0 1st-like.net
 0.0.0.0 1000-like.com
+0.0.0.0 1st-like.net
 0.0.0.0 24hr-like.com
 0.0.0.0 alllikefast.com
 0.0.0.0 bas-like.com
@@ -18,38 +18,39 @@
 0.0.0.0 dd-like.com
 0.0.0.0 demolike.ga
 0.0.0.0 dome-like.com
+0.0.0.0 donelike.com
 0.0.0.0 eagine-like.com
 0.0.0.0 eieiz.com
 0.0.0.0 fklike.com
-0.0.0.0 follow-sv.com
 0.0.0.0 follow2me.com
+0.0.0.0 follow-sv.com
 0.0.0.0 free-like.com
 0.0.0.0 free-like.net
-0.0.0.0 if-like.com
 0.0.0.0 gg-like.net
 0.0.0.0 golike-sv.com
 0.0.0.0 gulike.net
 0.0.0.0 hot-like.net
+0.0.0.0 if-like.com
 0.0.0.0 iheres.net
 0.0.0.0 k-like.net
-0.0.0.0 krappom-like.com
 0.0.0.0 kp-like.com
+0.0.0.0 krappom-like.com
+0.0.0.0 like.qpidradio.com
+0.0.0.0 like555.com
 0.0.0.0 like-club.net
 0.0.0.0 like-d.com
 0.0.0.0 like-fanpage.com
-0.0.0.0 like-kim.com
-0.0.0.0 like-luk.com
-0.0.0.0 like-plus.net
-0.0.0.0 like-sv.com
-0.0.0.0 like-sv.net
-0.0.0.0 like-th.net
-0.0.0.0 like.qpidradio.com
-0.0.0.0 like555.com
 0.0.0.0 likeforgift.com
 0.0.0.0 likeforthai.com
+0.0.0.0 like-kim.com
+0.0.0.0 like-luk.com
 0.0.0.0 likena.com
+0.0.0.0 like-plus.net
 0.0.0.0 likesec.com
+0.0.0.0 like-sv.com
+0.0.0.0 like-sv.net
 0.0.0.0 liketh.net
+0.0.0.0 like-th.net
 0.0.0.0 liketook.com
 0.0.0.0 likeup99.com
 0.0.0.0 likewai.com
@@ -59,8 +60,8 @@
 0.0.0.0 lnwlike.net
 0.0.0.0 longindy.com
 0.0.0.0 mm-like.com
-0.0.0.0 myliker.com
 0.0.0.0 mtsf-like.tk
+0.0.0.0 myliker.com
 0.0.0.0 n-like.com
 0.0.0.0 oh-like.in.th
 0.0.0.0 oh-like.net
@@ -69,24 +70,24 @@
 0.0.0.0 ok-like.net
 0.0.0.0 only-like.com
 0.0.0.0 oo-like.com
-0.0.0.0 p-pumlike.com
 0.0.0.0 permlike.com
 0.0.0.0 pinglike.com
 0.0.0.0 pm-like.com
+0.0.0.0 p-pumlike.com
 0.0.0.0 pumlike.in.th
 0.0.0.0 pump-follow.com
 0.0.0.0 punlike.com
 0.0.0.0 soy-like.com
 0.0.0.0 syslike.org
 0.0.0.0 thaipumlike.com
+0.0.0.0 th-like.com
 0.0.0.0 thlike.net
 0.0.0.0 thzlike.com
-0.0.0.0 th-like.com
 0.0.0.0 tk-like.net
-0.0.0.0 trr-like.net
 0.0.0.0 token3.com
 0.0.0.0 toolfb.com
 0.0.0.0 toptznews.com
+0.0.0.0 trr-like.net
 0.0.0.0 u2like.com
 0.0.0.0 up-follow.net
 0.0.0.0 vip-like.com
@@ -101,15 +102,15 @@
 
 # [IDN Rules]
 ! In case if non-alphabet domain rules doesn't work.
-0.0.0.0 xn--l3cbbv4ad1imp1s.com
-0.0.0.0 xn--82c1bjl3f8dvc.com
+0.0.0.0 xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com
+0.0.0.0 xn--42c1dm8a1go2d.com
+0.0.0.0 xn--42c7cmi3f7dsc.com
 0.0.0.0 xn--42c9bsq2d4f7a2a.com
 0.0.0.0 xn--42c9bsq2d4f7a2a.net
-0.0.0.0 xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com
-0.0.0.0 xn--42ci9cnny6f2f7a0cxb.com
 0.0.0.0 xn--42cfc5eh0bjv6hei4t6be3c.com
-0.0.0.0 xn--42c7cmi3f7dsc.com
-0.0.0.0 xn--42c1dm8a1go2d.com
+0.0.0.0 xn--42ci9cnny6f2f7a0cxb.com
+0.0.0.0 xn--82c1bjl3f8dvc.com
+0.0.0.0 xn--l3cbbv4ad1imp1s.com
 
 # [Other rules (PopUp/Inline)]
 0.0.0.0 103.233.194.98

@@ -1,6 +1,6 @@
 [uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub Ported]
-! Version: 201601272335
+! Version: 201602201316
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 1 day
@@ -15,8 +15,8 @@
 ! this results all sites not totally loaded and looks like those sites have "No stylesheets"
 
 ! [Basic Domain Rules]
-||1st-like.net^$important
 ||1000-like.com^$important
+||1st-like.net^$important
 ||24hr-like.com^$important
 ||alllikefast.com^$important
 ||bas-like.com^$important
@@ -28,38 +28,39 @@
 ||dd-like.com^$important
 ||demolike.ga^$important
 ||dome-like.com^$important
+||donelike.com^$important
 ||eagine-like.com^$important
 ||eieiz.com^$important
 ||fklike.com^$important
-||follow-sv.com^$important
 ||follow2me.com^$important
+||follow-sv.com^$important
 ||free-like.com^$important
 ||free-like.net^$important
-||if-like.com^$important
 ||gg-like.net^$important
 ||golike-sv.com^$important
 ||gulike.net^$important
 ||hot-like.net^$important
+||if-like.com^$important
 ||iheres.net^$important
 ||k-like.net^$important
-||krappom-like.com^$important
 ||kp-like.com^$important
+||krappom-like.com^$important
+||like.qpidradio.com^$important
+||like555.com^$important
 ||like-club.net^$important
 ||like-d.com^$important
 ||like-fanpage.com^$important
-||like-kim.com^$important
-||like-luk.com^$important
-||like-plus.net^$important
-||like-sv.com^$important
-||like-sv.net^$important
-||like-th.net^$important
-||like.qpidradio.com^$important
-||like555.com^$important
 ||likeforgift.com^$important
 ||likeforthai.com^$important
+||like-kim.com^$important
+||like-luk.com^$important
 ||likena.com^$important
+||like-plus.net^$important
 ||likesec.com^$important
+||like-sv.com^$important
+||like-sv.net^$important
 ||liketh.net^$important
+||like-th.net^$important
 ||liketook.com^$important
 ||likeup99.com^$important
 ||likewai.com^$important
@@ -79,24 +80,24 @@
 ||ok-like.net^$important
 ||only-like.com^$important
 ||oo-like.com^$important
-||p-pumlike.com^$important
 ||permlike.com^$important
 ||pinglike.com^$important
 ||pm-like.com^$important
+||p-pumlike.com^$important
 ||pumlike.in.th^$important
 ||pump-follow.com^$important
 ||punlike.com^$important
 ||soy-like.com^$important
 ||syslike.org^$important
 ||thaipumlike.com^$important
+||th-like.com^$important
 ||thlike.net^$important
 ||thzlike.com^$important
-||th-like.com^$important
 ||tk-like.net^$important
-||trr-like.net^$important
 ||token3.com^$important
 ||toolfb.com^$important
 ||toptznews.com^$important
+||trr-like.net^$important
 ||u2like.com^$important
 ||up-follow.net^$important
 ||vip-like.com^$important
@@ -111,27 +112,27 @@
 
 ! [Non-alphabet domain rules]
 ! Testing, probably not work.
-||ปั้มติดตาม.com^$important
+||โฮมไลค์.com^$important
 ||ปั้มเพจ.com^$important
 ||ปั้มไลค์.com^$important
 ||ปั้มไลค์.net^$important
-||ปั้มไลค์บนมือถือ.com^$important
 ||ปั้มไลค์เพจ.com^$important
-||รับจ้างปั้มไลค์.com^$important
+||ปั้มไลค์บนมือถือ.com^$important
+||ปั้มติดตาม.com^$important
 ||ฟรีไลค์.com^$important
-||โฮมไลค์.com^$important
+||รับจ้างปั้มไลค์.com^$important
 
 ! [IDN Rules]
 ! In case if non-alphabet domain rules doesn't work.
-||xn--l3cbbv4ad1imp1s.com^$important
-||xn--82c1bjl3f8dvc.com^$important
+||xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com^$important
+||xn--42c1dm8a1go2d.com^$important
+||xn--42c7cmi3f7dsc.com^$important
 ||xn--42c9bsq2d4f7a2a.com^$important
 ||xn--42c9bsq2d4f7a2a.net^$important
-||xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com^$important
-||xn--42ci9cnny6f2f7a0cxb.com^$important
 ||xn--42cfc5eh0bjv6hei4t6be3c.com^$important
-||xn--42c7cmi3f7dsc.com^$important
-||xn--42c1dm8a1go2d.com^$important
+||xn--42ci9cnny6f2f7a0cxb.com^$important
+||xn--82c1bjl3f8dvc.com^$important
+||xn--l3cbbv4ad1imp1s.com^$important
 
 ! [Other rules]
 ||103.233.194.98^$important
@@ -146,9 +147,9 @@
 ||roithai.in.th^$important
 
 ! Generic Filter (Promo link, elements, etc.)
-12sum.com##a[href="http://www.bot-like.net"]
 12sum.com##a[href^="http://www.bot-like.net/"]
-12sum.com##a[href="http://www.pumlike.in.th"]
 12sum.com##a[href^="http://www.pumlike.in.th/"]
-seohostthailand.com##a[href="http://toptznews.com"]
+12sum.com##a[href="http://www.bot-like.net"]
+12sum.com##a[href="http://www.pumlike.in.th"]
 seohostthailand.com##a[href^="http://toptznews.com/"]
+seohostthailand.com##a[href="http://toptznews.com"]
