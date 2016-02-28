@@ -1,6 +1,6 @@
 [uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub Ported]
-! Version: 201602201316
+! Version: 201602290056
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 1 day
@@ -145,6 +145,10 @@
 
 ! [Redirection Rules]
 ||roithai.in.th^$important
+
+! Scam Rules
+||blogyouandii.com^$important
+||lonmemay-cacnecacem.c9users.io^$important
 
 ! Generic Filter (Promo link, elements, etc.)
 12sum.com##a[href^="http://www.bot-like.net/"]
