@@ -1,7 +1,7 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiAntiTokenSites (Hosts File Edition for uMatrix)
 # Author: kowith337
-# Version: 201603082027
+# Version: 201604112013
 # Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 
 # [Basic Domain Rules]
@@ -122,4 +122,5 @@
 # [Scam Rules]
 0.0.0.0 blogyouandii.com
 0.0.0.0 c9users.io
+0.0.0.0 facebookloginweb.info
 0.0.0.0 pic-th.com
