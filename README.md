@@ -5,8 +5,10 @@ This filter has listed to block sites that know to trick and gain [**Facebook ac
 Most Facebook users don't know much about access token and can be easily to get tricked, admin of those sites will store tokens and then use to earn benefits for themselves by using your access to like posts or pages, follow many users or lists, comments on posts, share posts and more.<br/>
 **Repeat**: This only work with uBlock and it doesn't (fully) protect you if you had gave token for those sites before.<br/>
 If you're currently in trouble about that, Go to [Facebook Apps Settings](https://www.facebook.com/settings?tab=applications) and then try to delete suspicious apps logins, or completely reset platform by turn it off and then turn it on again.<br/>
-[Subscribe](https://subscribe.adblockplus.org/?location=https://github.com/kowith337/ThaiAntiTokenSites/raw/master/AntiPumpSites.txt) or copy [Direct Link](https://github.com/kowith337/ThaiAntiTokenSites/raw/master/AntiPumpSites.txt) and parse in uBlock Origin.<br/>
-*Note: ABP subscription link can added this list on uBlock only because this filter have no **[AdBlock Plus compatibility]** header.*<br />
+<br />
+[Subscribe](https://subscribe.adblockplus.org/?location=https://github.com/kowith337/ThaiAntiTokenSites/raw/master/AntiPumpSites.txt&title=Thai%20AntiToken%20Sites) or copy [Direct Link](https://github.com/kowith337/ThaiAntiTokenSites/raw/master/AntiPumpSites.txt) and parse in uBlock Origin.<br/>
+**Note**: ABP subscription link can added this list on uBlock only because this filter have no **[AdBlock Plus compatibility]** header.<br />
+<br />
 ####Bonus for uMatrix users.
 You can parse [hosts file](https://github.com/kowith337/ThaiAntiTokenSites/blob/master/AntiPumpSites_hosts.txt) to apply in uMatrix, It's good for double protection.
 > #####Note
