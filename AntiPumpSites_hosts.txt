@@ -1,7 +1,7 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiAntiTokenSites (Hosts File Edition for uMatrix)
 # Author: kowith337
-# Version: 201604112013
+# Version: 201604301039
 # Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 
 # [Basic Domain Rules]
@@ -40,6 +40,7 @@
 0.0.0.0 like-club.net
 0.0.0.0 like-d.com
 0.0.0.0 like-fanpage.com
+0.0.0.0 like-up.com
 0.0.0.0 likeforgift.com
 0.0.0.0 likeforthai.com
 0.0.0.0 like-kim.com
