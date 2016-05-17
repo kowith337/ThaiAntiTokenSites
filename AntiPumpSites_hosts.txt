@@ -1,7 +1,7 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiAntiTokenSites (Hosts File Edition for uMatrix)
 # Author: kowith337
-# Version: 201604301039
+# Version: 201605172031
 # Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 
 # [Basic Domain Rules]
@@ -99,6 +99,7 @@
 0.0.0.0 xteamlike.com
 0.0.0.0 zeedlike.com
 0.0.0.0 zeedlike.in.th
+0.0.0.0 zeedlike.net
 0.0.0.0 zjie.net
 
 # [IDN Rules]
