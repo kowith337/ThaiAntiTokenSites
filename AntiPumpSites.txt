@@ -1,6 +1,6 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201605172031
+! Version: 201606171540
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 1 day
@@ -143,6 +143,7 @@
 
 ! [Other sites that have sub-category page that related to]
 ! You can view this full site by temporary allow in uBlock.
+||c9users.io^$other
 ||mpfix.fc2ry.com^$other
 
 ! [Redirection Rules]
@@ -150,7 +151,6 @@
 
 ! [Scam Rules]
 ||blogyouandii.com^$important
-||c9users.io^$important
 ||facebookloginweb.info^$important
 ||pic-th.com^$important
 
