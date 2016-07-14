@@ -1,8 +1,9 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiAntiTokenSites (Hosts File Edition for uMatrix)
 # Author: kowith337
-# Version: 201606171540
+# Version: 201607140904
 # Homepage: https://github.com/kowith337/ThaiAntiTokenSites
+# Expires: 1 day
 
 # [Basic Domain Rules]
 0.0.0.0 1000-like.com
@@ -96,6 +97,7 @@
 0.0.0.0 waijaab.com
 0.0.0.0 waijeed.com
 0.0.0.0 waijeed.net
+0.0.0.0 wow-like.com
 0.0.0.0 xteamlike.com
 0.0.0.0 zeedlike.com
 0.0.0.0 zeedlike.in.th
