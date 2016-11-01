@@ -7,7 +7,7 @@ Most Facebook users don't know much about access token and can be easily to get 
 If you're currently in trouble about that, Go to [Facebook Apps Settings](https://www.facebook.com/settings?tab=applications) and then try to delete suspicious apps logins, or completely reset platform by turn it off and then turn it on again.<br/>
 <br />
 [Subscribe](https://subscribe.adblockplus.org/?location=https://github.com/kowith337/ThaiAntiTokenSites/raw/master/AntiPumpSites.txt&title=Thai%20AntiToken%20Sites) or copy [Direct Link](https://github.com/kowith337/ThaiAntiTokenSites/raw/master/AntiPumpSites.txt) *if subscription link doesn't work* and parse in uBlock Origin.<br/>
-**Note**: ABP subscription link can added this list on uBlock only because this filter have *no AdBlock Plus compatibility header.*<br />
+**Note**: ABP subscription link can added this list on uBlock only because this filter have no `[AdBlock Plus]` compatibility header.<br />
 <br />
 ####Bonus for uMatrix users.
 You can parse [hosts file](https://github.com/kowith337/ThaiAntiTokenSites/blob/master/AntiPumpSites_hosts.txt) to apply in uMatrix, It's good for double protection.

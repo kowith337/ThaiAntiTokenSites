@@ -1,6 +1,6 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201607140903
+! Version: 201611011940
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 1 day
@@ -36,11 +36,13 @@
 ||follow-sv.com^$important
 ||free-like.com^$important
 ||free-like.net^$important
+||get-like.net^$important
 ||gg-like.net^$important
 ||golike-sv.com^$important
 ||gulike.net^$important
 ||hot-like.net^$important
 ||if-like.com^$important
+||ig-like.com^$important
 ||iheres.net^$important
 ||k-like.net^$important
 ||kp-like.com^$important
@@ -51,6 +53,7 @@
 ||like-d.com^$important
 ||like-fanpage.com^$important
 ||like-up.com^$important
+||likefav.com^$important
 ||likeforgift.com^$important
 ||likeforthai.com^$important
 ||like-kim.com^$important
@@ -84,6 +87,7 @@
 ||permlike.com^$important
 ||pinglike.com^$important
 ||pm-like.com^$important
+||pn-like.ga^$important
 ||p-pumlike.com^$important
 ||pumlike.in.th^$important
 ||pump-follow.com^$important
@@ -107,6 +111,7 @@
 ||waijeed.com^$important
 ||waijeed.net^$important
 ||wow-like.com^$important
+||xo-like.com^$important
 ||xteamlike.com^$important
 ||zeedlike.com^$important
 ||zeedlike.in.th^$important
@@ -119,6 +124,8 @@
 ||ปั้มเพจ.com^$important
 ||ปั้มไลค์.com^$important
 ||ปั้มไลค์.net^$important
+||ปั๊มไลค์.com^$important
+||ปั๊มไลค์.net^$important
 ||ปั้มไลค์เพจ.com^$important
 ||ปั้มไลค์บนมือถือ.com^$important
 ||ปั้มติดตาม.com^$important
@@ -132,6 +139,8 @@
 ||xn--42c7cmi3f7dsc.com^$important
 ||xn--42c9bsq2d4f7a2a.com^$important
 ||xn--42c9bsq2d4f7a2a.net^$important
+||xn--42c9bsq2d4fsbu.com^$important
+||xn--42c9bsq2d4fsbu.net^$important
 ||xn--42cfc5eh0bjv6hei4t6be3c.com^$important
 ||xn--42ci9cnny6f2f7a0cxb.com^$important
 ||xn--82c1bjl3f8dvc.com^$important
