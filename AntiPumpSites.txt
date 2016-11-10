@@ -1,6 +1,6 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201611011940
+! Version: 201611101056
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 1 day
@@ -20,6 +20,7 @@
 ||24hr-like.com^$important
 ||alllikefast.com^$important
 ||bas-like.com^$important
+||bestliketh.com^$important
 ||bot-like.net^$important
 ||bot-likes.com^$important
 ||bubble-like.in.th^$important
@@ -92,9 +93,12 @@
 ||pumlike.in.th^$important
 ||pump-follow.com^$important
 ||punlike.com^$important
+||r-like.com^$important
 ||soy-like.com^$important
 ||syslike.org^$important
+||tarmha.com^$important
 ||thaipumlike.com^$important
+||thaipumlike.net^$important
 ||th-like.com^$important
 ||thlike.net^$important
 ||thzlike.com^$important
@@ -130,10 +134,12 @@
 ||ปั้มไลค์บนมือถือ.com^$important
 ||ปั้มติดตาม.com^$important
 ||ฟรีไลค์.com^$important
+||รักไลค์.com^$important
 ||รับจ้างปั้มไลค์.com^$important
 
 ! [IDN Rules]
 ! In case if non-alphabet domain rules doesn't work.
+||xn--12cg5gj2d4foc.com^$important
 ||xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com^$important
 ||xn--42c1dm8a1go2d.com^$important
 ||xn--42c7cmi3f7dsc.com^$important
@@ -165,9 +171,6 @@
 ||pic-th.com^$important
 
 ! [Generic Filter (Promo link, elements, etc.)]
-12sum.com##a[href^="http://www.bot-like.net/"]
-12sum.com##a[href^="http://www.pumlike.in.th/"]
-12sum.com##a[href="http://www.bot-like.net"]
-12sum.com##a[href="http://www.pumlike.in.th"]
-seohostthailand.com##a[href^="http://toptznews.com/"]
-seohostthailand.com##a[href="http://toptznews.com"]
+12sum.com##a[href^="http://www.bot-like.net"]
+12sum.com##a[href^="http://www.pumlike.in.th"]
+seohostthailand.com##a[href^="http://toptznews.com"]
