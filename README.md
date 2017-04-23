@@ -25,4 +25,4 @@ You can parse [hosts file](https://github.com/kowith337/ThaiAntiTokenSites/blob/
 > **Note**
 > - Items in this filter are added manually, thats mean no checksum generate and can't predict about how frequently to be update.
 > - This filter is mainly to block known access token theft sites in Thailand.
->  You can use [*Issues*](https://github.com/kowith337/ThaiAntiTokenSites/issues) to report those sites, I will be check and update lists if needed.
+> - You can use [*Issues*](https://github.com/kowith337/ThaiAntiTokenSites/issues) to report those sites, I will be check and update lists if needed.
