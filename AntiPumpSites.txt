@@ -1,6 +1,6 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201611101056
+! Version: 201709102015
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 1 day
@@ -18,7 +18,11 @@
 ||1000-like.com^$important
 ||1st-like.net^$important
 ||24hr-like.com^$important
+||4liker.com$important
+||ac.insbayi.xyz$important
 ||alllikefast.com^$important
+||anaksosial.com$important
+||ba-like.com$important
 ||bas-like.com^$important
 ||bestliketh.com^$important
 ||bot-like.net^$important
@@ -26,46 +30,63 @@
 ||bubble-like.in.th^$important
 ||call-like.com^$important
 ||cat-like.com^$important
+||com-like.net$important
+||cyberlikes.com$important
 ||dd-like.com^$important
+||dek-like.com$important
 ||demolike.ga^$important
+||djliker.com$important
+||dnc-like.com$important
 ||dome-like.com^$important
 ||donelike.com^$important
 ||eagine-like.com^$important
+||eaginemyddns.rocks$important
 ||eieiz.com^$important
+||fb-tools.soft112.com$important
 ||fklike.com^$important
-||follow2me.com^$important
+||flikes.us$important
 ||follow-sv.com^$important
+||follow2me.com^$important
 ||free-like.com^$important
 ||free-like.net^$important
+||ganglike.com$important
 ||get-like.net^$important
 ||gg-like.net^$important
 ||golike-sv.com^$important
 ||gulike.net^$important
+||haylike.net$important
 ||hot-like.net^$important
+||hublaa.me$important
+||hublaagram.me$important
 ||if-like.com^$important
 ||ig-like.com^$important
 ||iheres.net^$important
+||instagramfreefollowers.org$important
+||instalikes7.appspot.com$important
 ||k-like.net^$important
 ||kp-like.com^$important
 ||krappom-like.com^$important
-||like.qpidradio.com^$important
-||like555.com^$important
 ||like-club.net^$important
 ||like-d.com^$important
+||like-ems.com$important
 ||like-fanpage.com^$important
+||like-ios.com$important
+||like-kim.com^$important
+||like-luk.com^$important
+||like-on.com$important
+||like-plus.net^$important
+||like-sv.com^$important
+||like-sv.net^$important
+||like-th.net^$important
 ||like-up.com^$important
+||like.qpidradio.com^$important
+||like555.com^$important
 ||likefav.com^$important
 ||likeforgift.com^$important
 ||likeforthai.com^$important
-||like-kim.com^$important
-||like-luk.com^$important
 ||likena.com^$important
-||like-plus.net^$important
 ||likesec.com^$important
-||like-sv.com^$important
-||like-sv.net^$important
 ||liketh.net^$important
-||like-th.net^$important
 ||liketook.com^$important
 ||likeup99.com^$important
 ||likewai.com^$important
@@ -74,46 +95,63 @@
 ||lnw-like.com^$important
 ||lnwlike.net^$important
 ||longindy.com^$important
+||mg-likers.com$important
+||mix-like.com$important
 ||mm-like.com^$important
 ||mtsf-like.tk^$important
 ||myliker.com^$important
+||n-fblogin.com$important
 ||n-like.com^$important
 ||oh-like.in.th^$important
 ||oh-like.net^$important
+||oho-like.com$important
 ||ohoza.net^$important
 ||ok-like.biz^$important
 ||ok-like.net^$important
+||okfanclub.com$important
 ||only-like.com^$important
 ||oo-like.com^$important
+||p-pumlike.com^$important
+||pavelgloba.xyz$important
+||pb-like.com$important
 ||permlike.com^$important
+||pg-like.com$important
 ||pinglike.com^$important
 ||pm-like.com^$important
 ||pn-like.ga^$important
-||p-pumlike.com^$important
+||pubiwayliker.com$important
 ||pumlike.in.th^$important
 ||pump-follow.com^$important
 ||punlike.com^$important
 ||r-like.com^$important
 ||soy-like.com^$important
+||soy.myddns.rocks$important
 ||syslike.org^$important
 ||tarmha.com^$important
+||team-like.com$important
+||teen-like.com$important
+||th-like.com^$important
+||thailike.net$important
 ||thaipumlike.com^$important
 ||thaipumlike.net^$important
-||th-like.com^$important
 ||thlike.net^$important
 ||thzlike.com^$important
 ||tk-like.net^$important
+||tk.choangvc.com$important
 ||token3.com^$important
 ||toolfb.com^$important
 ||toptznews.com^$important
 ||trr-like.net^$important
+||ts-like.com$important
 ||u2like.com^$important
+||u2like.net$important
 ||up-follow.net^$important
 ||vip-like.com^$important
 ||vliker.com^$important
 ||waijaab.com^$important
 ||waijeed.com^$important
 ||waijeed.net^$important
+||wefbee.com$important
 ||wow-like.com^$important
 ||xo-like.com^$important
 ||xteamlike.com^$important
@@ -124,18 +162,18 @@
 
 ! [Non-alphabet domain rules]
 ! Testing, probably not work.
-||โฮมไลค์.com^$important
+||ปั้มติดตาม.com^$important
 ||ปั้มเพจ.com^$important
 ||ปั้มไลค์.com^$important
 ||ปั้มไลค์.net^$important
+||ปั้มไลค์บนมือถือ.com^$important
+||ปั้มไลค์เพจ.com^$important
 ||ปั๊มไลค์.com^$important
 ||ปั๊มไลค์.net^$important
-||ปั้มไลค์เพจ.com^$important
-||ปั้มไลค์บนมือถือ.com^$important
-||ปั้มติดตาม.com^$important
 ||ฟรีไลค์.com^$important
 ||รักไลค์.com^$important
 ||รับจ้างปั้มไลค์.com^$important
+||โฮมไลค์.com^$important
 
 ! [IDN Rules]
 ! In case if non-alphabet domain rules doesn't work.
