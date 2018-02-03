@@ -1,13 +1,13 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201709102022
+! Version: 201802032139
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
-! Expires: 1 day
+! Expires: 2 days
 
 ! Simple filter that block automated likes and followers gaining service sites
 ! because their site use the access token theft that can harmful to your Facebook account.
-! This filter works only for uBlock, also uBlock Origin and related forge	
+! This filter works only for uBlock, also uBlock Origin and related forge
 ! because it have ability to prevent to load and warn you before visit those sites.
 
 ! To be honest, I need to use $important rules to make sure everything from that sites will not to be loaded to keep your
@@ -18,16 +18,22 @@
 ||1000-like.com$important
 ||1st-like.net$important
 ||24hr-like.com$important
+||4gram.com$important
 ||4liker.com$important
 ||ac.insbayi.xyz$important
+||addfollow.info$important
+||aec-like.com$important
 ||alllikefast.com$important
 ||anaksosial.com$important
+||autocomment.info$important
+||autolikero.com$important
 ||ba-like.com$important
 ||bas-like.com$important
 ||bestliketh.com$important
 ||bot-like.net$important
 ||bot-likes.com$important
 ||bubble-like.in.th$important
+||buyfok.com$important
 ||call-like.com$important
 ||cat-like.com$important
 ||com-like.net$important
@@ -51,6 +57,7 @@
 ||free-like.net$important
 ||ganglike.com$important
 ||get-like.net$important
+||getautolike.net$important
 ||gg-like.net$important
 ||golike-sv.com$important
 ||gulike.net$important
@@ -61,11 +68,13 @@
 ||if-like.com$important
 ||ig-like.com$important
 ||iheres.net$important
+||indoliker.info$important
 ||instagramfreefollowers.org$important
 ||instalikes7.appspot.com$important
 ||k-like.net$important
 ||kp-like.com$important
 ||krappom-like.com$important
+||like-auto.com$important
 ||like-club.net$important
 ||like-d.com$important
 ||like-ems.com$important
@@ -92,6 +101,7 @@
 ||likewai.com$important
 ||likeyoungna.com$important
 ||likez.in$important
+||live4polls.com$important
 ||lnw-like.com$important
 ||lnwlike.net$important
 ||longindy.com$important
@@ -124,7 +134,9 @@
 ||pumlike.in.th$important
 ||pump-follow.com$important
 ||punlike.com$important
+||puppy-plus.com$important
 ||r-like.com$important
+||social2likes.com$important
 ||soy-like.com$important
 ||soy.myddns.rocks$important
 ||syslike.org$important
@@ -154,6 +166,7 @@
 ||waijeed.net$important
 ||wefbee.com$important
 ||wow-like.com$important
+||xo-like.com$important
 ||xo-like.com$important
 ||xteamlike.com$important
 ||zeedlike.com$important
