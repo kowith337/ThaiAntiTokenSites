@@ -1,6 +1,6 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201809282145
+! Version: 201809282234
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 2 days
@@ -26,6 +26,7 @@
 ||addev-vip.com$important
 ||addfollow.info$important
 ||aec-like.com$important
+||alive-like.com$important
 ||alllikefast.com$important
 ||anaksosial.com$important
 ||as-like.com$important
@@ -85,6 +86,7 @@
 ||ig-like.com$important
 ||igetlike.com$important
 ||iheres.net$important
+||in-like.com$important
 ||indoliker.info$important
 ||instagramfreefollowers.org$important
 ||instalikes7.appspot.com$important
@@ -93,6 +95,7 @@
 ||kp-like.com$important
 ||krappom-like.com$important
 ||like555.com$important
+||like-4g.com$important
 ||like-auto.com$important
 ||like-club.net$important
 ||like-d.com$important
@@ -138,6 +141,7 @@
 ||myliker.com$important
 ||n-fblogin.com$important
 ||n-like.com$important
+||new-like.com$important
 ||oh-like.in.th$important
 ||oh-like.net$important
 ||ohlike.net$important
@@ -163,9 +167,12 @@
 ||pumlike.in.th$important
 ||pumlikepage.com$important
 ||pump-follow.com$important
+||pumplike.net$important
 ||punlike.com$important
 ||puppy-plus.com$important
 ||r-like.com$important
+||rov-like.com$important
+||seo-like.net$important
 ||social2likes.com$important
 ||soy-like.com$important
 ||soy.myddns.rocks$important
@@ -217,6 +224,7 @@
 ||ปั้มไลค์.net$important
 ||ปั้มไลค์บนมือถือ.com$important
 ||ปั้มไลค์เพจ.com$important
+||ปั้มไลค์เฟสบุ๊ค.com$important
 ||ปั๊มไลค์.com$important
 ||ปั๊มไลค์.net$important
 ||ฟรีไลค์.com$important
@@ -224,6 +232,7 @@
 ||รักไลค์.com$important
 ||รับจ้างคอมเม้นท์.com$important
 ||รับจ้างปั้มไลค์.com$important
+||รับปั๊มไลค์.com$important
 ||รับเพิ่มไลค์แฟนเพจ.com$important
 ||โฮมไลค์.com$important
 
@@ -234,11 +243,13 @@
 ||xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com$important
 ||xn--42c1dm8a1go2d.com$important
 ||xn--42c5acbzc5amd5g4cqx7dug0f3a.com$important
+||xn--42c7bdyhp4fc6o7b0a.com$important
 ||xn--42c7cmi3f7dsc.com$important
 ||xn--42c9bsq2d4f7a2a.com$important
 ||xn--42c9bsq2d4f7a2a.net$important
 ||xn--42c9bsq2d4fsbu.com$important
 ||xn--42c9bsq2d4fsbu.net$important
+||xn--42ca9dcvk2a6b6c2d4d0bydxay.com$important
 ||xn--42cfc5eh0bjv6hei4t6be3c.com$important
 ||xn--42cfc6djc6cam8hsbo0qqeh4c.com$important
 ||xn--42ci4ccucfopx2kpb8khm9b1dzd.com$important
