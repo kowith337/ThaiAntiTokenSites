@@ -1,6 +1,6 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201802032139
+! Version: 201809282145
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 2 days
@@ -15,24 +15,33 @@
 ! this results all sites not totally loaded and looks like those sites have "No stylesheets"
 
 ! [Basic Domain Rules]
-||1000-like.com$important
 ||1st-like.net$important
-||24hr-like.com$important
 ||4gram.com$important
 ||4liker.com$important
+||24hr-like.com$important
+||1000-like.com$important
+||1001like.com$important
 ||ac.insbayi.xyz$important
+||add-like.com$important
+||addev-vip.com$important
 ||addfollow.info$important
 ||aec-like.com$important
 ||alllikefast.com$important
 ||anaksosial.com$important
+||as-like.com$important
 ||autocomment.info$important
+||autolikefacebook.com$important
 ||autolikero.com$important
 ||ba-like.com$important
 ||bas-like.com$important
+||bb-like.net$important
 ||bestliketh.com$important
+||bn-like.com$important
+||bossza.com$important
 ||bot-like.net$important
 ||bot-likes.com$important
 ||bubble-like.in.th$important
+||bulikez.com$important
 ||buyfok.com$important
 ||call-like.com$important
 ||cat-like.com$important
@@ -41,6 +50,7 @@
 ||dd-like.com$important
 ||dek-like.com$important
 ||demolike.ga$important
+||digital-like.net$important
 ||djliker.com$important
 ||dnc-like.com$important
 ||dome-like.com$important
@@ -48,11 +58,16 @@
 ||eagine-like.com$important
 ||eaginemyddns.rocks$important
 ||eieiz.com$important
+||emailaccout.com$important
+||ez-like.net$important
+||ezylike.com$important
 ||fb-tools.soft112.com$important
+||feel-like.net$important
+||ff-like.com$important
 ||fklike.com$important
 ||flikes.us$important
-||follow-sv.com$important
 ||follow2me.com$important
+||follow-sv.com$important
 ||free-like.com$important
 ||free-like.net$important
 ||ganglike.com$important
@@ -60,6 +75,7 @@
 ||getautolike.net$important
 ||gg-like.net$important
 ||golike-sv.com$important
+||gu-suy.com$important
 ||gulike.net$important
 ||haylike.net$important
 ||hot-like.net$important
@@ -67,13 +83,16 @@
 ||hublaagram.me$important
 ||if-like.com$important
 ||ig-like.com$important
+||igetlike.com$important
 ||iheres.net$important
 ||indoliker.info$important
 ||instagramfreefollowers.org$important
 ||instalikes7.appspot.com$important
 ||k-like.net$important
+||kfc-like.com$important
 ||kp-like.com$important
 ||krappom-like.com$important
+||like555.com$important
 ||like-auto.com$important
 ||like-club.net$important
 ||like-d.com$important
@@ -89,7 +108,7 @@
 ||like-th.net$important
 ||like-up.com$important
 ||like.qpidradio.com$important
-||like555.com$important
+||likefanpagethai.com$important
 ||likefav.com$important
 ||likeforgift.com$important
 ||likeforthai.com$important
@@ -99,15 +118,21 @@
 ||liketook.com$important
 ||likeup99.com$important
 ||likewai.com$important
+||likeyer.com$important
 ||likeyoungna.com$important
 ||likez.in$important
 ||live4polls.com$important
 ||lnw-like.com$important
 ||lnwlike.net$important
+||log-like.com$important
 ||longindy.com$important
+||many-like.com$important
+||mar-like.com$important
+||max-like.com$important
 ||mg-likers.com$important
 ||mix-like.com$important
 ||mm-like.com$important
+||mom-like.com$important
 ||mom-like.tk$important
 ||mtsf-like.tk$important
 ||myliker.com$important
@@ -115,6 +140,7 @@
 ||n-like.com$important
 ||oh-like.in.th$important
 ||oh-like.net$important
+||ohlike.net$important
 ||oho-like.com$important
 ||ohoza.net$important
 ||ok-like.biz$important
@@ -128,10 +154,14 @@
 ||permlike.com$important
 ||pg-like.com$important
 ||pinglike.com$important
+||plus-like.com$important
 ||pm-like.com$important
 ||pn-like.ga$important
+||pop-like.com$important
+||popularnaja.com$important
 ||pubiwayliker.com$important
 ||pumlike.in.th$important
+||pumlikepage.com$important
 ||pump-follow.com$important
 ||punlike.com$important
 ||puppy-plus.com$important
@@ -139,6 +169,7 @@
 ||social2likes.com$important
 ||soy-like.com$important
 ||soy.myddns.rocks$important
+||sv-like.com$important
 ||syslike.org$important
 ||tarmha.com$important
 ||team-like.com$important
@@ -147,7 +178,9 @@
 ||thailike.net$important
 ||thaipumlike.com$important
 ||thaipumlike.net$important
+||thank-like.com$important
 ||thlike.net$important
+||thpumlike.com$important
 ||thzlike.com$important
 ||tk-like.net$important
 ||tk.choangvc.com$important
@@ -158,6 +191,7 @@
 ||ts-like.com$important
 ||u2like.com$important
 ||u2like.net$important
+||ubon-like.com$important
 ||up-follow.net$important
 ||vip-like.com$important
 ||vliker.com$important
@@ -167,7 +201,6 @@
 ||wefbee.com$important
 ||wow-like.com$important
 ||xo-like.com$important
-||xo-like.com$important
 ||xteamlike.com$important
 ||zeedlike.com$important
 ||zeedlike.in.th$important
@@ -176,7 +209,9 @@
 
 ! [Non-alphabet domain rules]
 ! Testing, probably not work.
+||กูไลค์.com$important
 ||ปั้มติดตาม.com$important
+||ปั้มติดตามเฟสบุ๊ค.com$important
 ||ปั้มเพจ.com$important
 ||ปั้มไลค์.com$important
 ||ปั้มไลค์.net$important
@@ -185,24 +220,32 @@
 ||ปั๊มไลค์.com$important
 ||ปั๊มไลค์.net$important
 ||ฟรีไลค์.com$important
+||ระบบปั้มฟอลโล่.com$important
 ||รักไลค์.com$important
+||รับจ้างคอมเม้นท์.com$important
 ||รับจ้างปั้มไลค์.com$important
+||รับเพิ่มไลค์แฟนเพจ.com$important
 ||โฮมไลค์.com$important
 
 ! [IDN Rules]
 ! In case if non-alphabet domain rules doesn't work.
+||xn--12cg2h9c9b8b.com$important
 ||xn--12cg5gj2d4foc.com$important
 ||xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com$important
 ||xn--42c1dm8a1go2d.com$important
+||xn--42c5acbzc5amd5g4cqx7dug0f3a.com$important
 ||xn--42c7cmi3f7dsc.com$important
 ||xn--42c9bsq2d4f7a2a.com$important
 ||xn--42c9bsq2d4f7a2a.net$important
 ||xn--42c9bsq2d4fsbu.com$important
 ||xn--42c9bsq2d4fsbu.net$important
 ||xn--42cfc5eh0bjv6hei4t6be3c.com$important
+||xn--42cfc6djc6cam8hsbo0qqeh4c.com$important
+||xn--42ci4ccucfopx2kpb8khm9b1dzd.com$important
 ||xn--42ci9cnny6f2f7a0cxb.com$important
 ||xn--82c1bjl3f8dvc.com$important
 ||xn--l3cbbv4ad1imp1s.com$important
+||xn--r3cadqjita4eyao2s1ch.com$important
 
 ! [Other rules]
 ||103.233.194.98$important
@@ -211,8 +254,8 @@
 
 ! [Other sites that have sub-category page that related to]
 ! You can view this full site by temporary allow in uBlock.
-||c9users.io^$other
-||mpfix.fc2ry.com^$other
+||c9users.io$other
+||mpfix.fc2ry.com$other
 
 ! [Redirection Rules]
 ||roithai.in.th$important

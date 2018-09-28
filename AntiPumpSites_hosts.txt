@@ -1,29 +1,38 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiAntiTokenSites (Hosts File Edition for uMatrix)
-# Version: 201802032137
+# Version: 201809282155
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 # Expires: 2 days
 
 # [Basic Domain Rules]
-0.0.0.0 1000-like.com
 0.0.0.0 1st-like.net
-0.0.0.0 24hr-like.com
 0.0.0.0 4gram.com
 0.0.0.0 4liker.com
+0.0.0.0 24hr-like.com
+0.0.0.0 1000-like.com
+0.0.0.0 1001like.com
 0.0.0.0 ac.insbayi.xyz
+0.0.0.0 add-like.com
+0.0.0.0 addev-vip.com
 0.0.0.0 addfollow.info
 0.0.0.0 aec-like.com
 0.0.0.0 alllikefast.com
 0.0.0.0 anaksosial.com
+0.0.0.0 as-like.com
 0.0.0.0 autocomment.info
+0.0.0.0 autolikefacebook.com
 0.0.0.0 autolikero.com
 0.0.0.0 ba-like.com
 0.0.0.0 bas-like.com
+0.0.0.0 bb-like.net
 0.0.0.0 bestliketh.com
+0.0.0.0 bn-like.com
+0.0.0.0 bossza.com
 0.0.0.0 bot-like.net
 0.0.0.0 bot-likes.com
 0.0.0.0 bubble-like.in.th
+0.0.0.0 bulikez.com
 0.0.0.0 buyfok.com
 0.0.0.0 call-like.com
 0.0.0.0 cat-like.com
@@ -32,17 +41,23 @@
 0.0.0.0 dd-like.com
 0.0.0.0 dek-like.com
 0.0.0.0 demolike.ga
+0.0.0.0 digital-like.net
 0.0.0.0 djliker.com
 0.0.0.0 dnc-like.com
 0.0.0.0 dome-like.com
 0.0.0.0 donelike.com
 0.0.0.0 eagine-like.com
 0.0.0.0 eieiz.com
+0.0.0.0 emailaccout.com
+0.0.0.0 ez-like.net
+0.0.0.0 ezylike.com
 0.0.0.0 fb-tools.soft112.com
+0.0.0.0 feel-like.net
+0.0.0.0 ff-like.com
 0.0.0.0 fklike.com
 0.0.0.0 flikes.us
-0.0.0.0 follow-sv.com
 0.0.0.0 follow2me.com
+0.0.0.0 follow-sv.com
 0.0.0.0 free-like.com
 0.0.0.0 free-like.net
 0.0.0.0 ganglike.com
@@ -50,6 +65,7 @@
 0.0.0.0 getautolike.net
 0.0.0.0 gg-like.net
 0.0.0.0 golike-sv.com
+0.0.0.0 gu-suy.com
 0.0.0.0 gulike.net
 0.0.0.0 haylike.net
 0.0.0.0 hot-like.net
@@ -57,12 +73,15 @@
 0.0.0.0 hublaagram.me
 0.0.0.0 if-like.com
 0.0.0.0 ig-like.com
+0.0.0.0 igetlike.com
 0.0.0.0 iheres.net
 0.0.0.0 indoliker.info
 0.0.0.0 instagramfreefollowers.org
 0.0.0.0 k-like.net
+0.0.0.0 kfc-like.com
 0.0.0.0 kp-like.com
 0.0.0.0 krappom-like.com
+0.0.0.0 like555.com
 0.0.0.0 like-auto.com
 0.0.0.0 like-club.net
 0.0.0.0 like-d.com
@@ -77,7 +96,7 @@
 0.0.0.0 like-sv.net
 0.0.0.0 like-th.net
 0.0.0.0 like-up.com
-0.0.0.0 like555.com
+0.0.0.0 likefanpagethai
 0.0.0.0 likefav.com
 0.0.0.0 likeforgift.com
 0.0.0.0 likeforthai.com
@@ -87,15 +106,21 @@
 0.0.0.0 liketook.com
 0.0.0.0 likeup99.com
 0.0.0.0 likewai.com
+0.0.0.0 likeyer.com
 0.0.0.0 likeyoungna.com
 0.0.0.0 likez.in
 0.0.0.0 live4polls.com
 0.0.0.0 lnw-like.com
 0.0.0.0 lnwlike.net
+0.0.0.0 log-like.com
 0.0.0.0 longindy.com
+0.0.0.0 many-like.com
+0.0.0.0 mar-like.com
+0.0.0.0 max-like.com
 0.0.0.0 mg-likers.com
 0.0.0.0 mix-like.com
 0.0.0.0 mm-like.com
+0.0.0.0 mom-like.com
 0.0.0.0 mom-like.tk
 0.0.0.0 mtsf-like.tk
 0.0.0.0 myliker.com
@@ -103,6 +128,7 @@
 0.0.0.0 n-like.com
 0.0.0.0 oh-like.in.th
 0.0.0.0 oh-like.net
+0.0.0.0 ohlike.net
 0.0.0.0 oho-like.com
 0.0.0.0 ohoza.net
 0.0.0.0 ok-like.biz
@@ -116,16 +142,21 @@
 0.0.0.0 permlike.com
 0.0.0.0 pg-like.com
 0.0.0.0 pinglike.com
+0.0.0.0 plus-like.com
 0.0.0.0 pm-like.com
 0.0.0.0 pn-like.ga
+0.0.0.0 pop-like.com
+0.0.0.0 popularnaja.com
 0.0.0.0 pubiwayliker.com
 0.0.0.0 pumlike.in.th
+0.0.0.0 pumlikepage.com
 0.0.0.0 pump-follow.com
 0.0.0.0 punlike.com
 0.0.0.0 puppy-plus.com
 0.0.0.0 r-like.com
 0.0.0.0 social2likes.com
 0.0.0.0 soy-like.com
+0.0.0.0 sv-like.com
 0.0.0.0 syslike.org
 0.0.0.0 tarmha.com
 0.0.0.0 team-like.com
@@ -134,7 +165,9 @@
 0.0.0.0 thailike.net
 0.0.0.0 thaipumlike.com
 0.0.0.0 thaipumlike.net
+0.0.0.0 thank-like.com
 0.0.0.0 thlike.net
+0.0.0.0 thpumlike.com
 0.0.0.0 thzlike.com
 0.0.0.0 tk-like.net
 0.0.0.0 tk.choangvc.com
@@ -145,6 +178,7 @@
 0.0.0.0 ts-like.com
 0.0.0.0 u2like.com
 0.0.0.0 u2like.net
+0.0.0.0 ubon-like.com
 0.0.0.0 up-follow.net
 0.0.0.0 vip-like.com
 0.0.0.0 vliker.com
@@ -154,7 +188,6 @@
 0.0.0.0 wefbee.com
 0.0.0.0 wow-like.com
 0.0.0.0 xo-like.com
-0.0.0.0 xo-like.com
 0.0.0.0 xteamlike.com
 0.0.0.0 zeedlike.com
 0.0.0.0 zeedlike.in.th
@@ -163,18 +196,23 @@
 
 # [IDN Rules]
 # add non-english text (Unicode) will be give an error, convert to ASCII instead.
+0.0.0.0 xn--12cg2h9c9b8b.com
 0.0.0.0 xn--12cg5gj2d4foc.com
 0.0.0.0 xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com
 0.0.0.0 xn--42c1dm8a1go2d.com
+0.0.0.0 xn--42c5acbzc5amd5g4cqx7dug0f3a.com
 0.0.0.0 xn--42c7cmi3f7dsc.com
 0.0.0.0 xn--42c9bsq2d4f7a2a.com
 0.0.0.0 xn--42c9bsq2d4f7a2a.net
 0.0.0.0 xn--42c9bsq2d4fsbu.com
 0.0.0.0 xn--42c9bsq2d4fsbu.net
 0.0.0.0 xn--42cfc5eh0bjv6hei4t6be3c.com
+0.0.0.0 xn--42cfc6djc6cam8hsbo0qqeh4c.com
+0.0.0.0 xn--42ci4ccucfopx2kpb8khm9b1dzd.com
 0.0.0.0 xn--42ci9cnny6f2f7a0cxb.com
 0.0.0.0 xn--82c1bjl3f8dvc.com
 0.0.0.0 xn--l3cbbv4ad1imp1s.com
+0.0.0.0 xn--r3cadqjita4eyao2s1ch.com
 
 # [Other rules (PopUp/Inline)]
 0.0.0.0 103.233.194.98
@@ -191,45 +229,69 @@
 # [With Sub-domain]
 0.0.0.0 autolike.dd-like.com
 0.0.0.0 autolike.donelike.com
+0.0.0.0 blog.ezylike.com
 0.0.0.0 followers.instagramfreefollowers.org
 0.0.0.0 instalikes7.appspot.com
+0.0.0.0 like.bossza.com
 0.0.0.0 like.qpidradio.com
 0.0.0.0 post.xo-like.com
+0.0.0.0 www.add-like.com
 0.0.0.0 www.aec-like.com
 0.0.0.0 www.anaksosial.com
+0.0.0.0 www.as-like.com
+0.0.0.0 www.autolikefacebook.com
+0.0.0.0 www.bn-like.com
 0.0.0.0 www.bot-like.net
+0.0.0.0 www.bulikez.com
 0.0.0.0 www.buyfok.com
 0.0.0.0 www.cyberlikes.com
+0.0.0.0 www.digital-like.net
 0.0.0.0 www.donelike.com
 0.0.0.0 www.eagine-like.com
+0.0.0.0 www.emailaccout.com
+0.0.0.0 www.ez-like.net
+0.0.0.0 www.feel-like.net
 0.0.0.0 www.getautolike.net
 0.0.0.0 www.gg-like.net
+0.0.0.0 www.igetlike.com
 0.0.0.0 www.k-like.net
+0.0.0.0 www.like555.com
 0.0.0.0 www.like-club.net
 0.0.0.0 www.like-ems.com
 0.0.0.0 www.like-on.com
 0.0.0.0 www.like-plus.net
 0.0.0.0 www.like-up.com
-0.0.0.0 www.like555.com
+0.0.0.0 www.likefanpagethai.com
+0.0.0.0 www.lnw-like.com
+0.0.0.0 www.max-like.com
 0.0.0.0 www.mix-like.com
+0.0.0.0 www.mom-like.com
 0.0.0.0 www.myliker.com
+0.0.0.0 www.n-like.com
 0.0.0.0 www.oh-like.in.th
 0.0.0.0 www.oo-like.com
 0.0.0.0 www.pb-like.com
 0.0.0.0 www.pg-like.com
 0.0.0.0 www.pic-th.com
 0.0.0.0 www.pinglike.com
+0.0.0.0 www.pop-like.com
+0.0.0.0 www.pumlikepage.com
 0.0.0.0 www.pump-follow.com
 0.0.0.0 www.soy-like.com
 0.0.0.0 www.thailike.net
+0.0.0.0 www.thank-like.com
+0.0.0.0 www.thpumlike.com
 0.0.0.0 www.trr-like.net
 0.0.0.0 www.u2like.net
 0.0.0.0 www.wefbee.com
 0.0.0.0 www.wow-like.com
+0.0.0.0 www.xn--12cg2h9c9b8b.com
 0.0.0.0 www.xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com
 0.0.0.0 www.xn--42c7cmi3f7dsc.com
 0.0.0.0 www.xn--42c9bsq2d4fsbu.com
 0.0.0.0 www.xn--42cfc5eh0bjv6hei4t6be3c.com
+0.0.0.0 www.xn--42cfc6djc6cam8hsbo0qqeh4c.com
+0.0.0.0 www.xn--42ci4ccucfopx2kpb8khm9b1dzd.com
 0.0.0.0 www.xn--42ci9cnny6f2f7a0cxb.com
 0.0.0.0 www.xn--l3cbbv4ad1imp1s.com
 0.0.0.0 www.xo-like.com
