@@ -1,6 +1,6 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiAntiTokenSites (Hosts File Edition for uMatrix)
-# Version: 201809282251
+# Version: 201809292043
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 # Expires: 2 days
@@ -50,6 +50,7 @@
 0.0.0.0 eagine-like.com
 0.0.0.0 eieiz.com
 0.0.0.0 emailaccout.com
+0.0.0.0 emoji-like.com
 0.0.0.0 ez-like.net
 0.0.0.0 ezylike.com
 0.0.0.0 fb-tools.soft112.com
@@ -259,6 +260,7 @@
 0.0.0.0 www.donelike.com
 0.0.0.0 www.eagine-like.com
 0.0.0.0 www.emailaccout.com
+0.0.0.0 www.emoji-like.com
 0.0.0.0 www.ez-like.net
 0.0.0.0 www.feel-like.net
 0.0.0.0 www.getautolike.net

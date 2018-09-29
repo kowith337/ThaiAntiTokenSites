@@ -1,6 +1,6 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201809282251
+! Version: 201809292043
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 2 days
@@ -60,6 +60,7 @@
 ||eaginemyddns.rocks$important
 ||eieiz.com$important
 ||emailaccout.com$important
+||emoji-like.com$important
 ||ez-like.net$important
 ||ezylike.com$important
 ||fb-tools.soft112.com$important
