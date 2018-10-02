@@ -1,6 +1,6 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201809292043
+! Version: 201810020638
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 2 days
@@ -19,6 +19,7 @@
 ||4gram.com$important
 ||4liker.com$important
 ||24hr-like.com$important
+||999thailike.com$important
 ||1000-like.com$important
 ||1001like.com$important
 ||ac.insbayi.xyz$important
@@ -47,6 +48,7 @@
 ||call-like.com$important
 ||cat-like.com$important
 ||com-like.net$important
+||cutedev.net$important
 ||cyberlikes.com$important
 ||dd-like.com$important
 ||dek-like.com$important
@@ -58,11 +60,13 @@
 ||donelike.com$important
 ||eagine-like.com$important
 ||eaginemyddns.rocks$important
+||eatgirls.org$important
 ||eieiz.com$important
 ||emailaccout.com$important
 ||emoji-like.com$important
 ||ez-like.net$important
 ||ezylike.com$important
+||fb-follow.com$important
 ||fb-tools.soft112.com$important
 ||feel-like.net$important
 ||ff-like.com$important
@@ -140,6 +144,7 @@
 ||mom-like.com$important
 ||mom-like.tk$important
 ||mtsf-like.tk$important
+||mvp-like.com$important
 ||myliker.com$important
 ||n-fblogin.com$important
 ||n-like.com$important
@@ -167,6 +172,7 @@
 ||popularnaja.com$important
 ||pubiwayliker.com$important
 ||pumlike.in.th$important
+||pumlikemm.bentoweb.com$important
 ||pumlikepage.com$important
 ||pump-follow.com$important
 ||pumplike.net$important
@@ -219,6 +225,7 @@
 ! [Non-alphabet domain rules]
 ! Testing, probably not work.
 ||กูไลค์.com$important
+||บริการเพิ่มยอดไลค์.com$important
 ||ปั้มติดตาม.com$important
 ||ปั้มติดตามเฟสบุ๊ค.com$important
 ||ปั้มเพจ.com$important
@@ -240,6 +247,7 @@
 
 ! [IDN Rules]
 ! In case if non-alphabet domain rules doesn't work.
+||xn--12cg1cwavsheby0grcyae2puc3c5d.com$important
 ||xn--12cg2h9c9b8b.com$important
 ||xn--12cg5gj2d4foc.com$important
 ||xn--42c0bidd0bd2a0fb9a8ec7oxc8b.com$important
