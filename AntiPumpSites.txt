@@ -1,6 +1,6 @@
 ﻿[uBlock Origin 1.0.0.0]
 ! Title: ThaiAntiTokenSites [GitHub version]
-! Version: 201810020638
+! Version: 201810051718
 ! Author: kowith337
 ! Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 ! Expires: 2 days
@@ -15,14 +15,18 @@
 ! this results all sites not totally loaded and looks like those sites have "No stylesheets"
 
 ! [Basic Domain Rules]
-||1st-like.net$important
-||4gram.com$important
-||4liker.com$important
-||24hr-like.com$important
-||999thailike.com$important
 ||1000-like.com$important
 ||1001like.com$important
+||1st-like.net$important
+||24hr-like.com$important
+||4gram.com$important
+||4liker.com$important
+||9-like.com$important
+||999like.com$important
+||999thailike.com$important
 ||ac.insbayi.xyz$important
+||add-like.com$important
+||add-like.com$important
 ||add-like.com$important
 ||addev-vip.com$important
 ||addfollow.info$important
@@ -30,13 +34,16 @@
 ||alive-like.com$important
 ||alllikefast.com$important
 ||anaksosial.com$important
+||aodhero-like.com$important
 ||as-like.com$important
 ||autocomment.info$important
 ||autolikefacebook.com$important
 ||autolikero.com$important
+||autos-like.com$important
 ||ba-like.com$important
 ||bas-like.com$important
 ||bb-like.net$important
+||beamlikes.6te.net$important
 ||bestliketh.com$important
 ||bn-like.com$important
 ||bossza.com$important
@@ -51,6 +58,7 @@
 ||cutedev.net$important
 ||cyberlikes.com$important
 ||dd-like.com$important
+||ddd-9.com$important
 ||dek-like.com$important
 ||demolike.ga$important
 ||digital-like.net$important
@@ -61,19 +69,21 @@
 ||eagine-like.com$important
 ||eaginemyddns.rocks$important
 ||eatgirls.org$important
+||eazycookierun.blogspot.com$important
 ||eieiz.com$important
 ||emailaccout.com$important
 ||emoji-like.com$important
 ||ez-like.net$important
 ||ezylike.com$important
+||ezylike.weebly.com$important
 ||fb-follow.com$important
 ||fb-tools.soft112.com$important
 ||feel-like.net$important
 ||ff-like.com$important
 ||fklike.com$important
 ||flikes.us$important
-||follow2me.com$important
 ||follow-sv.com$important
+||follow2me.com$important
 ||free-like.com$important
 ||free-like.net$important
 ||ganglike.com$important
@@ -81,8 +91,11 @@
 ||getautolike.net$important
 ||gg-like.net$important
 ||golike-sv.com$important
+||goonlike.com$important
+||gpd-pro.com$important
 ||gu-suy.com$important
 ||gulike.net$important
+||hackerz.in.th$important
 ||haylike.net$important
 ||hot-like.net$important
 ||hublaa.me$important
@@ -95,11 +108,13 @@
 ||indoliker.info$important
 ||instagramfreefollowers.org$important
 ||instalikes7.appspot.com$important
+||jc-richer.com$important
+||jubjubmusic.com$important
 ||k-like.net$important
+||kadook.net$important
 ||kfc-like.com$important
 ||kp-like.com$important
 ||krappom-like.com$important
-||like555.com$important
 ||like-4g.com$important
 ||like-auto.com$important
 ||like-club.net$important
@@ -107,6 +122,7 @@
 ||like-ems.com$important
 ||like-fanpage.com$important
 ||like-ios.com$important
+||like-jung.com$important
 ||like-kim.com$important
 ||like-luk.com$important
 ||like-on.com$important
@@ -117,19 +133,26 @@
 ||like-th.net$important
 ||like-up.com$important
 ||like.qpidradio.com$important
+||like555.com$important
+||like666.me$important
+||likefanpagethai.com$important
 ||likefanpagethai.com$important
 ||likefav.com$important
 ||likeforgift.com$important
 ||likeforthai.com$important
+||likelikefacebookfanpage.blogspot.com$important
 ||likena.com$important
+||likesaddlike.wordpress.com$important
 ||likesec.com$important
 ||liketh.net$important
 ||liketook.com$important
 ||likeup99.com$important
+||likeveryfast.com$important
 ||likewai.com$important
 ||likeyer.com$important
 ||likeyoungna.com$important
 ||likez.in$important
+||lineautopost.com$important
 ||live4polls.com$important
 ||lnw-like.com$important
 ||lnwlike.net$important
@@ -137,6 +160,7 @@
 ||longindy.com$important
 ||many-like.com$important
 ||mar-like.com$important
+||mario-like.com$important
 ||max-like.com$important
 ||mg-likers.com$important
 ||mix-like.com$important
@@ -154,6 +178,7 @@
 ||ohlike.net$important
 ||oho-like.com$important
 ||ohoza.net$important
+||ok-like-facebook.com$important
 ||ok-like.biz$important
 ||ok-like.net$important
 ||okfanclub.com$important
@@ -166,21 +191,28 @@
 ||pg-like.com$important
 ||pinglike.com$important
 ||plus-like.com$important
+||plus-like.com$important
 ||pm-like.com$important
 ||pn-like.ga$important
 ||pop-like.com$important
+||poplikes.wordpress.com$important
 ||popularnaja.com$important
 ||pubiwayliker.com$important
 ||pumlike.in.th$important
 ||pumlikemm.bentoweb.com$important
 ||pumlikepage.com$important
 ||pump-follow.com$important
+||pumpfans.com$important
+||pumplike.makewebeasy.com$important
 ||pumplike.net$important
+||pumplikeface.blogspot.com$important
 ||punlike.com$important
 ||puppy-plus.com$important
 ||r-like.com$important
 ||rov-like.com$important
 ||seo-like.net$important
+||seo-like.net$important
+||slowlike.com$important
 ||social2likes.com$important
 ||soy-like.com$important
 ||soy.myddns.rocks$important
@@ -190,10 +222,13 @@
 ||team-like.com$important
 ||teen-like.com$important
 ||th-like.com$important
+||thai-like.net$important
+||thaifollow.in.th$important
 ||thailike.net$important
 ||thaipumlike.com$important
 ||thaipumlike.net$important
 ||thank-like.com$important
+||thaylike.com$important
 ||thlike.net$important
 ||thpumlike.com$important
 ||thzlike.com$important
@@ -208,6 +243,7 @@
 ||u2like.net$important
 ||ubon-like.com$important
 ||up-follow.net$important
+||uplikefanpage.blogspot.com$important
 ||vip-like.com$important
 ||vliker.com$important
 ||waijaab.com$important
@@ -215,6 +251,10 @@
 ||waijeed.net$important
 ||wefbee.com$important
 ||wow-like.com$important
+||xn--12cfa6erayvnes2ksabv7fze5ctd3d.com$important
+||xn--42ci4ccucfopx2kpb8khm9b1dzd.net$important
+||xn--42ci4cscem6a8j0ehj0b4c8c.com$important
+||xn--42ci6ceqqlt8hc2oubyd4b.com$important
 ||xo-like.com$important
 ||xteamlike.com$important
 ||zeedlike.com$important
@@ -242,7 +282,10 @@
 ||รับจ้างคอมเม้นท์.com$important
 ||รับจ้างปั้มไลค์.com$important
 ||รับปั๊มไลค์.com$important
+||รับเพิ่มไลค์ราคาถูก.com$important
 ||รับเพิ่มไลค์แฟนเพจ.com$important
+||รับเพิ่มไลค์แฟนเพจ.net$important
+||เพิ่มไลค์แฟนเพจ.com$important
 ||โฮมไลค์.com$important
 
 ! [IDN Rules]
