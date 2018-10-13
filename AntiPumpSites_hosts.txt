@@ -1,6 +1,6 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiAntiTokenSites (Hosts File Edition for uMatrix)
-# Version: 201810051718
+# Version: 201810140001
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiAntiTokenSites
 # Expires: 2 days
@@ -307,6 +307,7 @@
 0.0.0.0 like.qpidradio.com
 0.0.0.0 likelikefacebookfanpage.blogspot.com
 0.0.0.0 likesaddlike.wordpress.com
+0.0.0.0 logintoken.n-like.com
 0.0.0.0 poplikes.wordpress.com
 0.0.0.0 post.xo-like.com
 0.0.0.0 pumlikemm.bentoweb.com
